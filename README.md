@@ -47,3 +47,8 @@ Global setting.
 
 - `$ vagrant plugin install vagrant-hostmanager`
 - `$ vagrant hostmanager`
+
+
+**VM Setup**
+
+- `$vagrant up`

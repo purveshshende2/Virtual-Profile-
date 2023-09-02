@@ -32,11 +32,15 @@ Simple Devops project mangement manually in local machine.
  - Java web app service, to host java web application
 **NFS**
  - shared storage, If you have clusterised server and you need centralised storage you can use NFS
- >Memcahed request comes to accessing the chache second time it call the data from here>
-> login details in MYSQL >
-RabbitMQ connected to tomcat [Quetiong agent , to connect apps, message broker] Its just dummy in this project to create complexity
+ **Memcahed** 
+ - Request comes to accessing the chache second time it call the data from here>
+**MYSQL**
+- Login details saved in MYSQL 
+**RabbitMQ** 
+- connected to tomcat Quetiong agent , to connect apps, message broker
+- Its just dummy in this project to create complexity.
 
 
 Vagrant Hostmaanger
-- when you mentiontioned the Ip address and hostname of every Vm’s hostfiles `/etc/hosts` this file should have entry and matching IP address
+- when you mentioned the Ip address and hostname of every Vm’s hostfiles `/etc/hosts` this file should have entry and matching IP address
 Global setting.

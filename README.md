@@ -1,5 +1,6 @@
 # Virtual-Profile-
 Virtual Profile project [Locally]
+**It's only for MacOS M1 & M2 chip**
 
 Simple Devops project mangement manually in local machine.
 
